@@ -62,6 +62,6 @@ Information about career services and demo day information.
 
 [General Info](https://mycareerspot.org/)
 
-Career Connection
+##### Career Connection
 
 [Week 1](/01-HTML-Git-CSS/04-Important/CAREER-CONNECTION.md) | Week 2
