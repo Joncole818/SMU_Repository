@@ -60,4 +60,6 @@ Homework assignments, **due dates are in BCS**!
 
 [Career Services Website](https://mycareerspot.org/)
 
+Career Connection
+
 [Week 1](/01-HTML-Git-CSS/04-Important/CAREER-CONNECTION.md) | Week 2
