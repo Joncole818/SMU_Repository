@@ -58,7 +58,9 @@ Homework assignments, **due dates are in BCS**!
 
 #### Career Services
 
-[Career Services Website](https://mycareerspot.org/)
+Information about career services and demo day information.
+
+[General Info](https://mycareerspot.org/)
 
 Career Connection
 
