@@ -27,6 +27,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 #### Course Overview
 
 [Logistical Overview](https://docs.google.com/presentation/d/1-RTQozBoJPPex5Pg63m7pX_LcI5EXsgbfbsuFil_FyM/edit)
+
 [Curriculum Overview](https://techbootcamps.smu.edu/coding/curriculum/)
 
 #### Slack
@@ -48,6 +49,7 @@ Activities done in class and reviewed completed on your own.
 #### Homework
 
 [Homework Guide](/01-HTML-Git-CSS/04-Important/Homework-Guide)
+
 [Steps to Upload to Github](/01-HTML-Git-CSS/04-Important/Steps%20To%20Upload%20to%20Github.pdf)
 
 Homework assignments, **due dates are in BCS**!
