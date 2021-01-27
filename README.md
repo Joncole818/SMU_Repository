@@ -36,13 +36,13 @@ https://smudalfsfpt01-o099008.slack.com
 
 Our week goals, homework, slides, and other helpful resources.
 
-[Week 1](/01-HTML-Git-CSS/README.md)
+[Week 1](/01-HTML-Git-CSS/README.md) | Week 2
 
 #### Activities
 
 Activities done in class and reviewed completed on your own.
 
-[Week 1](/01-HTML-Git-CSS/01-Activities)
+[Week 1](/01-HTML-Git-CSS/01-Activities) | Week 2
 
 #### Homework
 
@@ -50,7 +50,7 @@ Activities done in class and reviewed completed on your own.
 
 Homework assignments, **due dates are in BCS**!
 
-[Week 1](/01-HTML-Git-CSS/02-Homework)
+[Week 1](/01-HTML-Git-CSS/02-Homework) | Week 2
 
 #### Class Recordings
 
@@ -58,4 +58,6 @@ Homework assignments, **due dates are in BCS**!
 
 #### Career Services
 
-[Career Services Info](01-HTML-Git-CSS/04-Important/CAREER-CONNECTION.md)
+[Career Services Website](https://mycareerspot.org/)
+
+[Week 1](/01-HTML-Git-CSS/04-Important/CAREER-CONNECTION.md) | Week 2
