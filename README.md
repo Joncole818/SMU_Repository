@@ -48,7 +48,7 @@ Activities done in class and reviewed completed on your own.
 
 [Homework Guide](/01-HTML-Git-CSS/04-Important/Homework-Guide) | [Steps to Upload to Github](/01-HTML-Git-CSS/04-Important/Steps%20To%20Upload%20to%20Github.pdf) | [Good README Guide](/01-HTML-Git-CSS/04-Important/Good-README-Guide)
 
-Homework assignments, **due dates are in BCS**!
+Homework assignments **due dates are in BCS**!
 
 [Week 1](/01-HTML-Git-CSS/02-Homework) | Week 2
 
